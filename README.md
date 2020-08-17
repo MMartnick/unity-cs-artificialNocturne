@@ -1,3 +1,8 @@
-# ArtificialNocturne_Demo
+# Artificial Nocturne Demo
 
-This .apk is a demo for my graduate project in mobile game and application development. The game is a dungeon crawler similar to The Legend of Zelda but with the added feature of using a device light sensor to illuminate the game space, this is most effective outdoors during the day. 
+This is a demo build of a mobile dungeon crawler game developed in C# with the Unity framework. The game features a touch UI, character management API system, and makes use of the device light sensor to affect the gamespace. 
+
+![Artificial Nocturne 1](/ArtificialNocturne/SampleImgs/main.png)
+
+
+![Artificial Nocturne 2](/ArtificialNocturne/SampleImgs/game.png)
