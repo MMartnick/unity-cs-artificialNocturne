@@ -2,6 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 
+/*
+
 /Artificial-Nocturne//[Aa]ndroidStudio/
 /Artificial-Nocturne//[Ll]ibrary/
 /Artificial-Nocturne//[Tt]emp/
