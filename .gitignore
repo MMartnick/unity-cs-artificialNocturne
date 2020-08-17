@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 
-Artificial-Nocturne//[Aa]ndroidStudio/
-Artificial-Nocturne//[Ll]ibrary/
-Artificial-Nocturne//[Tt]emp/
+/Artificial-Nocturne//[Aa]ndroidStudio/
+/Artificial-Nocturne//[Ll]ibrary/
+/Artificial-Nocturne//[Tt]emp/
 Artificial-Nocturne//[Oo]bj/
 Artificial-Nocturne//[Bb]uild/
 Artificial-Nocturne//[Bb]uilds/
-Artificial-Nocturne/[Ll]ogs/
+/Artificial-Nocturne/[Ll]ogs/
 Artificial-Nocturne//[Mm]emoryCaptures/
 !/Artificial-Nocturne//[Aa]ssets/Art*
 Artificial-Nocturne/[Aa]ssets/Audio/
