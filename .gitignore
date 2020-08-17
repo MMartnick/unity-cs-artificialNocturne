@@ -1,4 +1,5 @@
 #
+Artificial-Nocturne//[Aa]ndroidStudio/
 Artificial-Nocturne//[Ll]ibrary/
 Artificial-Nocturne//[Tt]emp/
 Artificial-Nocturne//[Oo]bj/
@@ -10,6 +11,7 @@ Artificial-Nocturne//[Aa]ssets/Art*
 Artificial-Nocturne//[Aa]ssets/Audio*
 Artificial-Nocturne//[Aa]ssets/Scripts/CharacterManager*
 Artificial-Nocturne//[Aa]ssets/Scripts/Ads.cs
+
 # Assets need to be removed.
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
